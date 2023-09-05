@@ -1,4 +1,3 @@
 # BookManagementSystem
 
-Id : test
-Password : 1234
+Id : test / Password : 1234
